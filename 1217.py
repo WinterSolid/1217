@@ -1,7 +1,5 @@
 #!/usr/bin/python3
 
-# Replace RPG starter project with this code when new instructions are live
-
 def showInstructions():
   #print a main menu and the commands
   print('''
